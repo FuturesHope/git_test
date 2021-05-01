@@ -1,5 +1,5 @@
 # git_test
-web dev fundamentals testing
+testing git again and again...
 
 Alex's Project using git
 
